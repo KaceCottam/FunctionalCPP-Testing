@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/dev/FunctionalC/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\x86_64-w64-mingw32-g++.exe  -DFMT_HEADER_ONLY=1 @CMakeFiles/FirstProject.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\FirstProject.dir\\projects\\FirstProject\\FirstProject.cpp.obj -c C:\\dev\\FunctionalC\\projects\\FirstProject\\FirstProject.cpp",
+  "file": "C:/dev/FunctionalC/projects/FirstProject/FirstProject.cpp"
+},
+{
+  "directory": "C:/dev/FunctionalC/build/lib/fmt",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/fmt.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles\\fmt.dir\\src\\format.cc.obj -c C:\\dev\\FunctionalC\\lib\\fmt\\src\\format.cc",
+  "file": "C:/dev/FunctionalC/lib/fmt/src/format.cc"
+},
+{
+  "directory": "C:/dev/FunctionalC/build/lib/fmt",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\x86_64-w64-mingw32-g++.exe   @CMakeFiles/fmt.dir/includes_CXX.rsp -g   -std=gnu++11 -o CMakeFiles\\fmt.dir\\src\\posix.cc.obj -c C:\\dev\\FunctionalC\\lib\\fmt\\src\\posix.cc",
+  "file": "C:/dev/FunctionalC/lib/fmt/src/posix.cc"
+}
+]

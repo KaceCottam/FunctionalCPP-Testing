@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/FunctionalC/build/CMakeFiles/functional_plus"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/CMakeFiles/functional_plus.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/CMakeFiles/functional_plus-complete.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-install.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-download.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-update.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-patch.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-configure.rule"
+		},
+		{
+			"file" : "C:/dev/FunctionalC/build/functional_plus-prefix/src/functional_plus-stamp/functional_plus-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"functional_plus"
+		],
+		"name" : "functional_plus"
+	}
+}
