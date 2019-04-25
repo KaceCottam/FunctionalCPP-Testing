@@ -1,6 +1,0 @@
-C:/dev/FunctionalC/build/CMakeFiles/FirstProject.dir
-C:/dev/FunctionalC/build/CMakeFiles/edit_cache.dir
-C:/dev/FunctionalC/build/CMakeFiles/rebuild_cache.dir
-C:/dev/FunctionalC/build/lib/fmt/CMakeFiles/edit_cache.dir
-C:/dev/FunctionalC/build/lib/fmt/CMakeFiles/fmt.dir
-C:/dev/FunctionalC/build/lib/fmt/CMakeFiles/rebuild_cache.dir
